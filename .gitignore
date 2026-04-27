@@ -1,6 +1,5 @@
 # Dependencies
 node_modules
-/experiment
 # Build
 dist
 dist-ssr
